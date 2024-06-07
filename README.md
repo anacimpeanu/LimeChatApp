@@ -149,5 +149,5 @@ LimeChat is a dynamic social networking application built using Entity Framework
 - [Artemis Constantina Tismanaru ( Tina )](https://github.com/ArtemisTismanaru)
 
 ---
-### 📽 Video: [LIME CHAT APP 🧁]
+### 📽 Video: [LIME CHAT APP 🧁](https://youtu.be/FSN_3X7RDw8)
 ### 🖥 Code: [The Code 🧁](https://github.com/anacimpeanu/LimeChatApp/tree/master/LimeChat)
