@@ -75,6 +75,11 @@ LimeChat is a dynamic social networking application built using Entity Framework
 
 ## Features at a Glance 🌟
 
+<details>
+    <summary> 
+     <h3> LimeChat - Features🍋 </h3>
+  </summary>
+  
 ### View Public Posts 
             Browse anonymous posts on the homepage even if you're not logged in. 
             This feature allows you to get a taste of the community and explore interesting content
@@ -135,6 +140,7 @@ LimeChat is a dynamic social networking application built using Entity Framework
 <div align="center">  
     <img width="500" alt="image" src="https://github.com/anacimpeanu/LimeChatApp/assets/115561036/edd595b7-99ea-416f-adc5-7b3c3aba9fd2">
 </div>
+</details>
 
 ### TEAM 
 
